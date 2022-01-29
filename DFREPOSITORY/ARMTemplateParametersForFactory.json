@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "DFREPOSITORY"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
