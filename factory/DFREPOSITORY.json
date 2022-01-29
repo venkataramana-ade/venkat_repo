@@ -1,0 +1,9 @@
+{
+	"name": "DFREPOSITORY",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "67c348ed-de1d-41b0-8953-c8d34e118538",
+		"tenantId": "c48f0a58-4b08-4bf7-a82e-48c93ddc32a8"
+	}
+}
